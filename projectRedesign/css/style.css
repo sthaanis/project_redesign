@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+    font-family: 'dosisbold';
+    src: url('../fonts/dosis-bold-webfont.woff2') format('woff2'),
+         url('../fonts/dosis-bold-webfont.woff') format('woff'),
+         url('../fonts/dosis-bold-webfont.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dosisregular';
+    src: url('../fonts/dosis-regular-webfont.woff2') format('woff2'),
+         url('../fonts/dosis-regular-webfont.woff') format('woff'),
+         url('../fonts/dosis-regular-webfont.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.width-1170 {
+	width: 1170px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.head-wrapper{
+	background-image:  url('../images/pexels-photo.jpg');
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+}
+
+.head-section {
+	position: relative;
+}
+
+.fixed {
+ 	position: fixed;
+  	width: 100%;
+}
+
+.show {
+	background-color: #4e4e4e;	
+ 	opacity: 1;
+}
+
+
+.transition {    
+ 	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+
+.logo-wrapper {
+	float: left;
+}
+
+.logo-wrapper li {
+	list-style-type: none;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+}
+
+.logo-wrapper li a {
+	text-decoration: none;
+	font: 24px 'dosisbold';
+	color:  #FF9900;
+
+}
+
+.nav-wrapper {
+	float: right;
+}
+
+.nav-wrapper ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding-top: 30px;
+	padding-bottom: 25px;
+	padding-right: 25px;
+}
+
+.nav-wrapper ul li a {
+	text-decoration: none;
+	font: 20px 'dosisregular';
+	color: #fff;
+	background: none;
+
+}
+
+.nav-wrapper ul li a:hover {
+	color: #D0CA9C;
+}
+
+.content-wrapper h1{
+	position: absolute;
+	top: 280px;
+	left: 195px;
+	font: 25px 'dosisbold';
+	color: #4e4e4e;
+	width: 940px;
+	text-align: center;
+}
+
+.content-wrapper button {
+	border: 0;
+	position: absolute;
+	top: 400px;
+	left: 645px;
+	padding: 8px;
+	height: 40px;
+	width: 120px;
+	color: #fff;
+	font: 20px 'dosisregular';
+	border-radius: 5px;
+	background: none;
+	border: 1px solid #fff;
+	cursor: pointer;
+	transition: all 0.6s ease-in-out;
+}
+
+.content-wrapper button:hover {
+    background: #21B6A8;
+}
