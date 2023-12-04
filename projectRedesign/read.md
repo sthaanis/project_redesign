@@ -48,11 +48,11 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
    `<html lang="en">`: 
    
-   This means that it is the root element of the HTML document and sets the language to English.
+      This means that it is the root element of the HTML document and sets the language to English.
 
    `<head>`: 
    
-   This section contains meta information about the document, such as character set, viewport settings, and page title.
+      This section contains meta information about the document, such as character set, viewport settings, and page title.
 
    `<meta charset="UTF-8">`: 
    
