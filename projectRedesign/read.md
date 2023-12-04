@@ -29,6 +29,13 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 </body>
 </html>
 ```
+
+#### Code Explained !!
+The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document.
+
+Let's break down the JavaScript code step-by-step:
+
+
     
 **External JavaScript**
 
