@@ -46,24 +46,24 @@ The above code snippet showcases the use of internal JavaScript. In this approac
    
       This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
-   `<html lang="en">`: 
+      `<html lang="en">`: 
       
       This means that it is the root element of the HTML document and sets the language to English.
 
-   `<head>`: 
+      `<head>`: 
    
       This section contains meta-information about the document, such as character set, viewport settings, 
       and page title.
 
-   `<meta charset="UTF-8">`: 
+      `<meta charset="UTF-8">`: 
    
       Specifies the character encoding as UTF-8.
 
-   `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: 
+      `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: 
    
       Configures the viewport for responsive design.
 
-   `<title>Greeting</title>`: 
+      `<title>Greeting</title>`: 
    
       Sets the title of the HTML document to "Greeting."
 
