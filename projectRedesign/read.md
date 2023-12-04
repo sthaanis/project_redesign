@@ -48,14 +48,11 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
    `<head>`: This section contains meta information about the document, such as character set, viewport settings, and page title.
 
-      <meta charset="UTF-8">: 
-   Specifies the character encoding as UTF-8.
+   `<meta charset="UTF-8">`: Specifies the character encoding as UTF-8.
 
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">: 
-   Configures the viewport for responsive design.
+   `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Configures the viewport for responsive design.
 
-      <title>Greeting</title>: 
-   Sets the title of the HTML document to "Greeting."
+   `<title>Greeting</title>`: Sets the title of the HTML document to "Greeting."
 
 #### Body Content
 
