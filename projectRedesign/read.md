@@ -60,9 +60,13 @@ The above code snippet showcases the use of internal JavaScript. In this approac
    `<script>`: This tag is used to embed JavaScript code within the HTML document.
 
 #### JavaScript
-   `var userName = prompt("Please Enter your name:");`: This line declares a variable `userName` and assigns it the value entered by the user through the prompt. The `prompt`         function displays a dialog box with the message `"Please Enter your Name"` and waits for users to input their name.
+   `var userName = prompt("Please Enter your name:");`: 
    
-   `alert("Hello, " + userName + "! Greetings from JavaScript!");`: This displays an alert dialog with a greeting. First, it concatenates the string "Hello," with the variable         value stored in the `userName` variable, and the string "! Greetings from JavaScript!" is added to the last.
+   This line declares a variable `userName` and assigns it the value entered by the user through the prompt. The `prompt` function displays a dialog box with the message `"Please     Enter your Name"` and waits for users to input their name.
+   
+   `alert("Hello, " + userName + "! Greetings from JavaScript!");`: 
+   
+   This displays an alert dialog with a greeting. First, it concatenates the string "Hello," with the variable value stored in the `userName` variable, and the string "! Greetings    from JavaScript!" is added to the last.
 
 
     
