@@ -11,7 +11,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 
 ### Code Snippet
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +32,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 </body>
 </html>
 
-```
+\```
     
 **External JavaScript**
 
