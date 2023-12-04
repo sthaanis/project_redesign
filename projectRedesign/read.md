@@ -19,16 +19,12 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Internal or Inline JavaScript</title>
+    <title>Greeting</title>
 </head>
 <body>
-    <p id="demo">Click on the button to change the text.</p>
-    <button onclick="changeText()">Click Me!</button>
-
     <script>
-        function changeText(){
-            document.getElementById('demo').innerHTML = "This is inline javascript";
-        }
+        var userName = prompt("Please Enter your Name: ");
+        alert("Hello, " + userName + "! Greetings from JavaScript!");
     </script>
 </body>
 </html>
