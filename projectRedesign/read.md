@@ -3,6 +3,8 @@
 ## Chapter 2: Ways to Use Javascript
 
 There are a couple of ways to use JavaScript inside your HTML documents. These include the use of **Internal JavaScript** and **External JavaScript**.
+
+[Internal or Inline JavaScript]
     
 ### Internal or Inline JavaScript
 
