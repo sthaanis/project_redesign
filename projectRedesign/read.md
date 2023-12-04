@@ -56,13 +56,9 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
 #### Body Content
 
-   `<body>`: 
-   
-      This is the main content of the HTML document.
+   `<body>`: This is the main content of the HTML document.
       
-   `<script>`: 
-      
-      This tag is used to embed JavaScript code within the HTML document.
+   `<script>`: This tag is used to embed JavaScript code within the HTML document.
 
 #### JavaScript
 
