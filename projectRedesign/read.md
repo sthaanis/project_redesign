@@ -41,7 +41,7 @@ Let's break down the JavaScript code step-by-step:
 
 `<html lang="en">`: This defines that it is the root element of the HTML document and sets the language to English.
 
-`<head>`: This section contains meta-information about the document, such as the character set, viewport settings, and the title of the page.
+`<head>`: This section contains meta information about the document, such as character set, viewport settings, and page title.
 
 
     
