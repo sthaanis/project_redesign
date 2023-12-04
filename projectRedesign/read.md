@@ -7,11 +7,6 @@ In this chapter, you will have a strong foundation on the following topics:
 1. [Internal or Inline JavaScript](#internal-or-inline-javascript)
 2. [Project 1: Personalized Greeting Website](#project-1-personalized-greeting-website)
    
-         
-
-
-
-
 There are a couple of ways to use JavaScript inside your HTML documents. These include the use of **Internal JavaScript** and **External JavaScript**.
     
 ### Internal or Inline JavaScript
