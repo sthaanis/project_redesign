@@ -19,6 +19,8 @@ An external script can be referenced in 3 different ways:
 3. Without any path
    ```<script src="script.js"></script>```
     
+**Why to us External JavaScript?**
+
 Using external JavaScript has several advantages:
         1. Separation of Concerns: Keeps your HTML clean and separates the structure (HTML), presentation (CSS), and behavior          (JavaScript).
         2. Code Reusability: The same JavaScript file can be linked to multiple HTML files, promoting code reusability.
