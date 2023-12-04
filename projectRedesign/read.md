@@ -1,6 +1,6 @@
 # Ways to Use Javascript
     
-**Internal JavaScript**
+## Internal JavaScript
 
 In this approach to use JavaScript, the JavaScript code is  written between the `<script></script>` tag within the HTML document. The script is placed in the `<body>` or `<head>` section of an HTML page.
 
