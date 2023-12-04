@@ -43,8 +43,7 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 #### HTML Structure
 
       `<!DOCTYPE html>`: 
-   
-      This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
+This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
       `<html lang="en">`: 
       
