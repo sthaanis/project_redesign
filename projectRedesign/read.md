@@ -40,19 +40,19 @@ In this project, we will create a simple Personalized Greeting website. This pro
 
 The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document. Let's break down the JavaScript code step-by-step:
 
-      HTML Structure
+#### HTML Structure
 
-      <!DOCTYPE html>: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
+   `<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
-      <html lang="en">: This defines that it is the root element of the HTML document and sets the language to English.
+   `<html lang="en">`: This defines that it is the root element of the HTML document and sets the language to English.
 
-      <head>: This section contains meta information about the document, such as character set, viewport settings, and page title.
+   `<head>`: This section contains meta-information about the document, such as character set, viewport settings, and page title.
 
-      <meta charset="UTF-8">: Specifies the character encoding as UTF-8.
+   `<meta charset="UTF-8">`: Specifies the character encoding as UTF-8.
 
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">: Configures the viewport for responsive design.
+   `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: Configures the viewport for responsive design.
 
-      <title>Greeting</title>: Sets the title of the HTML document to "Greeting."
+   `<title>Greeting</title>`: Sets the title of the HTML document to "Greeting."
 
 
     
