@@ -38,17 +38,15 @@ In this project, we will create a simple Personalized Greeting website. This pro
 ```
 #### Code Explained!!
 
-The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document.
+The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document. Let's break down the JavaScript code step-by-step:
 
-Let's break down the JavaScript code step-by-step:
-
-#### HTML Structure
+##### HTML Structure
 
 `<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
 `<html lang="en">`: This defines that it is the root element of the HTML document and sets the language to English.
 
-`<head>`: This section contains meta information about the document, such as character set, viewport settings, and page title.
+`<head>`: This section contains meta-information about the document, such as character set, viewport settings, and page title.
 
 
     
