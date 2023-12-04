@@ -25,7 +25,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 
     <script>
         function changeText(){
-            document.getElementById('demo').innerHTML = "This is Internal JavaScript. All the codes are written inside the script tag within the html document";
+            document.getElementById('demo').innerHTML = "All the codes are written inside the script tag within the html document";
         }
     </script>
    
