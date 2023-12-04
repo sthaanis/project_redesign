@@ -42,10 +42,9 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
 #### HTML Structure
 
-   `<!DOCTYPE html>:` 
-   This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
+   `<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
-      <html lang="en">: 
+   `<html lang="en">`: 
    This means that it is the root element of the HTML document and sets the language to English.
 
       <head>:
