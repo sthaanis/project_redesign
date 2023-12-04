@@ -6,7 +6,8 @@ In this chapter, you will have a strong foundation on the following topics:
 
 1. [Internal or Inline JavaScript](#internal-or-inline-javascript)
    
-      1. Code Snippet - Internal JavaScript
+      1. [Code Snippet I](#code-snippet-i)
+         
 
 
 
@@ -20,7 +21,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
     Note: It is always a good practice to place scripts at the bottom of the <body> as it enhances the loading speed. 
     Placing a script inside the <head> can make the site slower as it takes time to process the script.
 
-#### Code Snippet - Internal JavaScript
+#### Code Snippet I
 
 ```html
 <!DOCTYPE html>
@@ -39,7 +40,6 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 </html>
 ```
 
-#### Code Explained !!
 The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document.
 
 Let's break down the JavaScript code step-by-step:
