@@ -21,7 +21,6 @@ In this approach of using JavaScript, all the JavaScript code is placed inside a
 
 An external script can be referenced in 3 different ways:
 1. With a full URL (a full web address) 
-
    ``` <script src="https://www.yoursite.com/js/script.js"></script> ```
 3. With a file path (like /js/) <script src="/js/script.js"></script>
 4. Without any path <script src="script.js"></script>
