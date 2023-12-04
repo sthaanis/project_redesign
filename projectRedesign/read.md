@@ -9,16 +9,19 @@
 ## Ways to use JavaScript
     
 **Internal JavaScript**
+
 In this approach to use JavaScript, the JavaScript code is  written between the `<script></script>` tag within the HTML document. The script is placed in the `<body>` or `<head>` section of an HTML page.
 
     Note: It is always a good practice to place scripts at the bottom of the <body> as it enhances the loading speed. 
     Placing a script inside the <head> can make the site slower as it takes time to process the script.
     
 **External JavaScript**
+
 In this approach of using JavaScript, all the JavaScript code is placed inside a separate file with a `.js` extension and the file is linked to the HTML document using the `<script>` tag with the `src` attribute.
 
 An external script can be referenced in 3 different ways:
-        1.With a full URL (a full web address) <script src="https://www.yoursite.com/js/script.js"></script>
+        1.With a full URL (a full web address) 
+        	<script src="https://www.yoursite.com/js/script.js"></script>
         2.With a file path (like /js/) <script src="/js/script.js"></script>
         3.Without any path <script src="script.js"></script>
     
