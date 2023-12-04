@@ -1,6 +1,6 @@
 # FoundationJS (Series A): A Foundation Guide to JavaScript
 
-## Chapter 2 : Ways to Use Javascript
+## Chapter 2: Ways to Use Javascript
 
 There are a couple of ways to use JavaScript inside your HTML documents. These include the use of **Internal JavaScript** and **External JavaScript**.
     
@@ -35,7 +35,7 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
 Let's break down the JavaScript code step-by-step:
 
-**HTML Structure**
+#### HTML Structure
 
 `<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
