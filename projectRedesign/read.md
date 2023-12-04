@@ -1,12 +1,4 @@
-# JavaScript - Mastering JS Beyond the Basics
-
-## Some of the examples of what JavaScript can do.
-1. JavaScript can change HTML Content.
-2. JavaScript can change HTML attribute values.
-3. JavaScript can change HTML styles.
-4. JavaScript can show/hide HTML elements.
-
-## Ways to use JavaScript
+# Ways to Use Javascript
     
 **Internal JavaScript**
 
