@@ -92,9 +92,9 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
 #### Execution Flow
 
-      When the webpage loads, the JavaScript code within the `<script>` tag is executed. Then `prompt` function prompts 
-      a dialog box that asks the user to enter their name. Once the user enters the name it is stored in the variable 
-      `userName`. Then the alert displays a greeting along with the name.
+      When the webpage loads, the JavaScript code within the `<script>` tag is executed. Then `prompt` function 
+      prompts a dialog box that asks the user to enter their name. Once the user enters the name it is stored 
+      in the variable `userName`. Then the alert displays a greeting along with the name.
 
     
 
