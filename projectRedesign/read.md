@@ -37,7 +37,8 @@ Let's break down the JavaScript code step-by-step:
 
 **HTML Structure**
 
-`<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5.
+`<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
+
 `<html lang="en">`: This defines that it is the root element of the HTML document and sets the language to English.
 
 `<head>`: This section contains meta-information about the document, such as the character set, viewport settings, and the title of the page.
