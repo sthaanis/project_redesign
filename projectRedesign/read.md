@@ -28,7 +28,6 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
             document.getElementById('demo').innerHTML = "This is inline javascript";
         }
     </script>
-   
 </body>
 </html>
 ```
