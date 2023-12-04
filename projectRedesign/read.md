@@ -18,7 +18,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 
 #### Project 1: Personalized Greeting Website
 
-In this project, we will create a simple Personalized Greeting website. This project takes name as an input from the user & greets the users.
+In this project, we will create a simple Personalized Greeting website. This project takes names as input from the user. Once the user submits their name, the website will greet the user.
 
 ```html
 <!DOCTYPE html>
