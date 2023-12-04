@@ -5,6 +5,7 @@
 In this chapter, you will have a strong foundation on the following topics: 
 
 1. [Internal or Inline JavaScript](#internal-or-inline-javascript)
+   
       1. Code Snippet - Internal JavaScript
 
 
