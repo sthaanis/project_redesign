@@ -20,10 +20,10 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 In this approach of using JavaScript, all the JavaScript code is placed inside a separate file with a `.js` extension and the file is linked to the HTML document using the `<script>` tag with the `src` attribute.
 
 An external script can be referenced in 3 different ways:
-        1.With a full URL (a full web address) 
+1. With a full URL (a full web address) 
         	<script src="https://www.yoursite.com/js/script.js"></script>
-        2.With a file path (like /js/) <script src="/js/script.js"></script>
-        3.Without any path <script src="script.js"></script>
+2. With a file path (like /js/) <script src="/js/script.js"></script>
+3. Without any path <script src="script.js"></script>
     
 Using external JavaScript has several advantages:
         1. Separation of Concerns: Keeps your HTML clean and separates the structure (HTML), presentation (CSS), and behavior          (JavaScript).
