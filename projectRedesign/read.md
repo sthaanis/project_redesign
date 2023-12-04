@@ -31,8 +31,7 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
    
 </body>
 </html>
-
-\```
+```
     
 **External JavaScript**
 
