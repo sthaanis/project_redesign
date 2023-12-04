@@ -1,18 +1,19 @@
 # JavaScript - Mastering JS Beyond the Basics
 
-## Some of the examples on what JavaScript can do.
-    1. JavaScript can change HTML Content.
-    2. JavaScript can change HTML attribute values.
-    3. JavaScript can change HTML styles.
-    4. JavaScript can show/hide HTML elements.
+## Some of the examples of what JavaScript can do.
+1. JavaScript can change HTML Content.
+2. JavaScript can change HTML attribute values.
+3. JavaScript can change HTML styles.
+4. JavaScript can show/hide HTML elements.
 
 ## Ways to use JavaScript
     
 Internal JavaScript 
 In this approach to use JavaScript, the JavaScript code is  written between the **<script></script>** tag within the HTML document. The script is placed in the <body> or <head> section of an HTML page.
 
-    It is always a good practice to place scripts at the bottom on the <body> as it enhances the loading speed. 
-    Placing a script inside the <head> can make the site slower as it takes time to process the script.
+    Note: It is always a good practice to place scripts at the bottom of the <body> 
+    as it enhances the loading speed. Placing a script inside the <head> can make the site slower 
+    as it takes time to process the script.
     
 External JavaScript : In this approach of using JavaScript, all the JavaScript code are placed inside a separate file with a '.js' extension and the file is linked to the HTML document using the <script> tag with `src` attribute.
 
