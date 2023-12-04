@@ -36,6 +36,7 @@ In this project, we will create a simple Personalized Greeting website. This pro
 </body>
 </html>
 ```
+#### Code Explained!!
 
 The above code snippet showcases the use of internal JavaScript. In this approach of using JavaScript, codes are directly placed within the HTML document.
 
