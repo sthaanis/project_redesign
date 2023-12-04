@@ -8,6 +8,31 @@ In this approach to use JavaScript, the JavaScript code is  written between the 
 
     Note: It is always a good practice to place scripts at the bottom of the <body> as it enhances the loading speed. 
     Placing a script inside the <head> can make the site slower as it takes time to process the script.
+
+### Code Snippet
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal or Inline JavaScript</title>
+</head>
+<body>
+    <p id="demo">Click on the button to change the text.</p>
+    <button onclick="changeText()">Click Me!</button>
+
+    <script>
+        function changeText(){
+            document.getElementById('demo').innerHTML = "This is Internal JavaScript. All the codes are written inside the script tag within the html document";
+        }
+    </script>
+   
+</body>
+</html>
+
+```
     
 **External JavaScript**
 
