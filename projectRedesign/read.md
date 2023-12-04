@@ -52,29 +52,36 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
    `<head>`: 
    
-      This section contains meta information about the document, such as character set, viewport settings, and page title.
+      This section contains meta-information about the document, such as character set, viewport settings, 
+      and page title.
 
    `<meta charset="UTF-8">`: 
    
-   Specifies the character encoding as UTF-8.
+      Specifies the character encoding as UTF-8.
 
    `<meta name="viewport" content="width=device-width, initial-scale=1.0">`: 
    
-   Configures the viewport for responsive design.
+      Configures the viewport for responsive design.
 
    `<title>Greeting</title>`: 
    
-   Sets the title of the HTML document to "Greeting."
+      Sets the title of the HTML document to "Greeting."
 
 #### Body Content
 
-   `<body>`: This is the main content of the HTML document.
-   `<script>`: This tag is used to embed JavaScript code within the HTML document.
+   `<body>`: 
+   
+      This is the main content of the HTML document.
+      
+   `<script>`: 
+      
+      This tag is used to embed JavaScript code within the HTML document.
 
 #### JavaScript
+
    `var userName = prompt("Please Enter your name:");`: 
    
-   This line declares a variable `userName` and assigns it the value entered by the user through the prompt. The `prompt` function displays a dialog box with the message `"Please     Enter your Name"` and waits for users to input their name.
+      This line declares a variable `userName` and assigns it the value entered by the user through the prompt. The `prompt` function displays a dialog box with the message `"Please     Enter your Name"` and waits for users to input their name.
    
    `alert("Hello, " + userName + "! Greetings from JavaScript!");`: 
    
