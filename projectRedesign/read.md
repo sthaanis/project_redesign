@@ -44,11 +44,9 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
    `<!DOCTYPE html>`: This declaration defines the document type and version of HTML. In this case, the version is HTML5. 
 
-   `<html lang="en">`: 
-   This means that it is the root element of the HTML document and sets the language to English.
+   `<html lang="en">`: This means that it is the root element of the HTML document and sets the language to English.
 
-      <head>:
-   This section contains meta information about the document, such as character set, viewport settings, and page title.
+   `<head>`: This section contains meta information about the document, such as character set, viewport settings, and page title.
 
       <meta charset="UTF-8">: 
    Specifies the character encoding as UTF-8.
