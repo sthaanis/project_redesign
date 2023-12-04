@@ -54,6 +54,14 @@ The above code snippet showcases the use of internal JavaScript. In this approac
 
    `<title>Greeting</title>`: Sets the title of the HTML document to "Greeting."
 
+#### Body Content
+
+   `<body>`: This is the main content of the HTML document.
+   `<script>`: This tag is used to embed JavaScript code within the HTML document.
+
+#### JavaScript
+   `var userName = prompt("Please Enter your name:");`: This line declares a variable `userName` and assigns it the value entered by the user through the prompt. The `prompt`         function displays a dialog box with the message "Please Enter your Name" and waits for users to input their name.
+
 
     
 
