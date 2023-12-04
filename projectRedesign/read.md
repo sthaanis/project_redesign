@@ -1,15 +1,17 @@
-# Ways to Use Javascript
+# FoundationJS (Series A): A Foundation Guide to JavaScript
+
+## Chapter 2 : Ways to Use Javascript
 
 There are a couple of ways to use JavaScript inside your HTML documents. These include the use of **Internal JavaScript** and **External JavaScript**.
     
-## Internal or Inline JavaScript
+### Internal or Inline JavaScript
 
 In this approach to use JavaScript, the JavaScript code is  written between the `<script></script>` tag within the HTML document. The script is placed in the `<body>` or `<head>` section of an HTML page.
 
     Note: It is always a good practice to place scripts at the bottom of the <body> as it enhances the loading speed. 
     Placing a script inside the <head> can make the site slower as it takes time to process the script.
 
-### Code Snippet
+#### Code Snippet
 
 ```html
 <!DOCTYPE html>
